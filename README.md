@@ -4,7 +4,7 @@
 [![Linkedin: jeangatto](https://img.shields.io/badge/-jeangatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeangatto/)](https://www.linkedin.com/in/jeangatto/)
 
 <p>I've been working with software development for over 10 years.</p>
-<p>Senior Software Developer C# | ASP.NET Core | ASP.NET Framework</p>
+<p>Senior Software Developer C# | ASP.NET Core | ASP.NET Framework | Javascript | Typescrypt</p>
 
 ## Skills
 - Clean Code, S.O.L.I.D, Domain-driven design
