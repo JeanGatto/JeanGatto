@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I'm Jean Gatto, a Full-Stack Developer from Brazil.</h2>
+<h2> 👋 Hi, I'm Jean Gatto, a Software Developer from Brazil.</h2>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jeangatto.jeangatto)
 [![wakatime](https://wakatime.com/badge/user/50699097-5822-4d06-8a98-0c8fa389db9a.svg)](https://wakatime.com/@50699097-5822-4d06-8a98-0c8fa389db9a)
